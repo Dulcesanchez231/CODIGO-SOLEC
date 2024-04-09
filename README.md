@@ -35,24 +35,7 @@ public class CitasService {
     public void agregarCita(Cita cita) {
         citasRepository.save(cita);
     }
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Service;
-import java.util.List;
 
-@Service
-public class CitasService {
-
-    @Autowired
-    private CitasRepository citasRepository;
-
-    public List<Cita> obtenerTodasLasCitas() {
-        return citasRepository.findAll();
-    }
-
-    public void agregarCita(Cita cita) {
-        citasRepository.save(cita);
-    }
-}
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
