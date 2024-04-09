@@ -1,6 +1,8 @@
 # CODIGO-SOLEC
 ACTIVIDAD 3
-create service appointments(
+
+
+Create service appointments(
     id INT AUTO_INCREMENT PRIMARY KEY,
     cliente VARCHAR(100),
     fecha DATE, 
