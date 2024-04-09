@@ -1,6 +1,6 @@
 # CODIGO-SOLEC
 ACTIVIDAD 3
-CREATE TABLE citas (
+create service appointments(
     id INT AUTO_INCREMENT PRIMARY KEY,
     cliente VARCHAR(100),
     fecha DATE, 
