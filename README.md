@@ -10,7 +10,6 @@ ACTIVIDAD 3
 
 
 
-
 Create service appointments(
     id INT AUTO_INCREMENT PRIMARY KEY,
     cliente VARCHAR(100),
