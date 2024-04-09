@@ -11,7 +11,8 @@ Create service appointments(
     cliente VARCHAR(100),
     fecha DATE, 
     hora TIME,   
-    servicio VARCHAR(255), 
+    servicio VARCHAR(255),
+    
 );
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
