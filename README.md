@@ -21,5 +21,8 @@ el área de ventas y atención al cliente, cuenta con demaciada demanda, y causa
 ### CONFIGURACION 
 ![image](https://github.com/Dulcesanchez231/CODIGO-SOLEC/assets/157060322/6dc231d1-ea31-4281-8ecd-66727b422016)
 
-### PERFIL
+### PERFIL DE USUARIO
 ![image](https://github.com/Dulcesanchez231/CODIGO-SOLEC/assets/157060322/14a45f6a-909b-40ce-a6e5-58afbd45e85d)
+### PASOS FINALES DE LA APP.
+![image](https://github.com/Dulcesanchez231/CODIGO-SOLEC/assets/157060322/8c7b6db7-812d-4abd-9907-b7a022accadb)
+
